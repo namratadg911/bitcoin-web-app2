@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(161, 122, 144);
+  padding: 50px;
+}
+
+/* Table fields */
+table, td, th {
+  border: 1px solid black;
+  height: 50px;
+  text-align: center;
+}
+
+table {
+  border: 2px solid rgb(122, 64, 64);
+  width: 90%;
+  float: left;
+  margin:20px;
+  }
+
+td {
+  height: 100px;
+  color: rgb(145, 194, 144);
+  font-family: cursive;
+  font-size: large;
+}
+
+/* Table Alignment */
+.floatLeft { width: 50%; float: left; }
+.floatRight {width: 50%; float: right; }

@@ -1,6 +1,6 @@
 # bitcoin-web-app2
 ## Instructions to run this project
-### h3
+### 
 Steps for backend
 1.Maven build
 2.install 

@@ -1,10 +1,18 @@
 # bitcoin-web-app2
 ## Instructions to run this project
 ### 
-Steps for backend
-1.Maven build
-2.install 
-3.run
+How to run the project:
 
-Steps for frontend:
-4. npm start
+1. Download backend folder
+2. Inside Eclipse
+File -> Import -> Maven -> Existing Maven project
+3. Right click on the folder
+Maven-> Update project [check force update project] 
+4. Run as -> Maven build...
+
+The backend server will start
+
+Now download the front end folder
+Open in VSCode or any editor
+1. npm start
+
